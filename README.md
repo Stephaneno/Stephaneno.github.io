@@ -21,7 +21,7 @@ Welcome to my GitHub blog. I am currently doing a cancer study with the assistan
 
 Just going to try to figure this stuff out with a simple post, have not done much research into my specific topic in cancer, so I am just going to try to get a grip on this site 
 
-[Read more →](Hello?)
+[Read more →](Firstpost.md)
 
 ---
 
