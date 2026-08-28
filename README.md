@@ -1,6 +1,5 @@
 # Stephaneno.github.io
 Blog page for Stephen Toombs on Github
-# Stephen Toombs — Blog
 
 Welcome to my GitHub blog. I am currently doing a cancer study with the assistance of generative ai, and trying to manage my research on this blog.
 
@@ -14,7 +13,7 @@ Welcome to my GitHub blog. I am currently doing a cancer study with the assistan
 
 ---
 
-## Latest posts
+## All Posts
 
 ### Post 1 — *Getting Started with My Page*
 **Date:** 2026-08-26  
