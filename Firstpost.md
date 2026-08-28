@@ -15,4 +15,4 @@ Might delete this page, but I also might just use it as a template going forward
 
 ---
 
-[← Back to Blog](../README.md)
+[← Back to Blog](README.md)
