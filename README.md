@@ -15,12 +15,12 @@ Let me just go ahead and start this page with a post about me.
 
 ---
 
-### Post 2 — *Coming soon*
-**Date:** N/A  
+### Post 2 — *First Cancer Research Post*
+**Date:** 2026-09-02  
 
-Just trying to get the format down, nothing here yet!
+Initial Research on ________ Cancer
 
-[Read more →](#)
+[Read more →](CancerResearch1.md)
 
 ---
 
