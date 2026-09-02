@@ -1,17 +1,24 @@
-# Trial Post
+# About me
 
-*By Stephen Toombs — 8/27/2026*
+* 9/01/2026*
 
 ---
 
-## Notes
-Just wanted to see if I could properly make a second file for a hyperlink, but assuming you can see this then I am just about ready to create my first official blog post!
+## About me
+
+**Name:** Stephen Toombs  
+**Role:** Biology student at UofM, projected graduation date 2028
+**Interests:** I'm interested in a lot of things, but as of recently I'd say most of my interest is focused to Biochemistry, orchestra, and rock climbing
+**Favorite subject:** I would say I am the best at math, but my favorite is definitely Biology or any life sciences.
+**Life goals:** When I graduate my main goal is to become a Dentist and end up working as a Dentist in the Air Force.
+---
+
 
 
 ---
 
 ## Closing
-Might delete this page, but I also might just use it as a template going forward, anyway, more actual work coming soon.
+Thanks for reading! Actual research coming soon!
 
 ---
 
