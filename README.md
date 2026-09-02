@@ -5,14 +5,6 @@ Welcome to my GitHub blog. I am currently doing a cancer study with the assistan
 
 ---
 
-## About me
-
-**Name:** Stephen Toombs  
-**Role:** Biology student at UofM   
-**Interests:** I'm interested in a lot of things, but as of recently I'd say most of my interest is focused to Biochemistry, orchestra, and rock climbing
-
----
-
 ## All Posts
 
 ### Post 1 — *Getting Started with My Page*
