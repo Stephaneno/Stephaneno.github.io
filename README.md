@@ -18,8 +18,7 @@ Welcome to my GitHub blog. I am currently doing a cancer study with the assistan
 ### Post 1 — *Getting Started with My Page*
 **Date:** 2026-08-26  
 
-Just going to try to figure this stuff out with a simple post, have not done much research into my specific topic in cancer, so I am just going to try to get a grip on this site 
-
+Let me just go ahead and start this page with a post about me.
 [Read more →](Firstpost.md)
 
 ---
