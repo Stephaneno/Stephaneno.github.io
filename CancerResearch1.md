@@ -8,6 +8,9 @@
 
 This is a cancer that starts as a mutation in cartilaginous cells that starts growing cancer that can spread to bones close by, this cartilidge can be in between almost any bone joint, but is most common in-between pelvis joints, thigh joints, ribs, and upper arms. (Can also form in jaw and spinal chord in rare instances) 
 
+It can be harder to identify because usually you cannot visibly see or feel the cancer, but once you start experiencing symptoms of nausea, weight loss, pain, or weakness, your provider can do an x-ray, PET scan, or bone scan to help identify it.
+
+In the scenario a bump does occur you can also have a biopsy done.
 
 
 Some stages of Chondrosarcoma are:
