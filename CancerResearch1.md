@@ -12,8 +12,9 @@ It can be harder to identify because usually you cannot visibly see or feel the 
 
 In the scenario a bump does occur you can also have a biopsy done.
 
+<img width="543" height="353" alt="Chondrosarcoma" src="https://github.com/user-attachments/assets/e53b3a58-3a8b-4052-bf31-b377fd19cec6" />
 
-Some stages of Chondrosarcoma are:
+**Some stages of Chondrosarcoma are:**
 
 
 Low-grade (grade I):  Starts as cartilaginous cancer and not very likely to start spreading until it reaches the bone.
@@ -83,8 +84,11 @@ If it manages to spread to bones in different parts of your body, the 5 year sur
 
 ---
 
+**Sources:**
 
+https://my.clevelandclinic.org
 
+https://www.mdanderson.org
 ---
 
 ## Closing
