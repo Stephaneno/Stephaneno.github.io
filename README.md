@@ -18,7 +18,7 @@ Let me just go ahead and start this page with a post about me.
 ### Post 2 — *First Cancer Research Post*
 **Date:** 2026-09-02  
 
-Initial Research on ________ Cancer
+Initial Research on Chondrosarcoma Cancer
 
 [Read more →](CancerResearch1.md)
 
