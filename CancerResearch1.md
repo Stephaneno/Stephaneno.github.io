@@ -89,6 +89,9 @@ If it manages to spread to bones in different parts of your body, the 5 year sur
 https://my.clevelandclinic.org
 
 https://www.mdanderson.org
+
+https://nurseslab.io (photo source)
+
 ---
 
 ## Closing
