@@ -90,7 +90,7 @@ https://my.clevelandclinic.org
 
 https://www.mdanderson.org
 
-https://nurseslab.io (photo source)
+https://nurseslab.in (photo source)
 
 ---
 
