@@ -19,3 +19,13 @@ While their original focus was to create a model that could understand sequencin
 
 
 ---
+
+
+
+## Thanks for reading.
+
+By: Stephen Mann Toombs
+
+---
+
+[← Back to Blog](README.md)
