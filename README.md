@@ -29,7 +29,7 @@ Initial Research on Chondrosarcoma Cancer
 
 Today we will look at how sequencing technologies impact cancer study, and companies as a whole
  
-[Read more →](SequencingBusiness)
+[Read more →](SequencingBusiness.md)
 
 ---
 
