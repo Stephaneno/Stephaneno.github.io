@@ -24,6 +24,15 @@ Initial Research on Chondrosarcoma Cancer
 
 ---
 
+### Post 3 — *Sequencing impact on Businesses*
+**Date:** 2026-09-23  
+
+Today we will look at how sequencing technologies impact cancer study, and companies as a whole
+ 
+[Read more →](SequencingBusiness)
+
+---
+
 ## Contact
 
 If you’d like to connect or collaborate:
