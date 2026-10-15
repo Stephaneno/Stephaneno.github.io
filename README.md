@@ -33,6 +33,14 @@ Today we will look at how sequencing technologies impact cancer study, and compa
 
 ---
 
+### Post 4 — *Are we defined by our genome?*
+**Date:** 2026-10-14  
+
+What exactly does our genome control? And does it completely define us or are we still in control?
+ 
+[Read more →](Genome.md)
+
+---
 ## Contact
 
 If you’d like to connect or collaborate:
