@@ -41,6 +41,15 @@ What exactly does our genome control? And does it completely define us or are we
 [Read more →](Genome.md)
 
 ---
+
+### Post 5 — *What have we learned so far?*
+**Date:** 2026-10-31 
+
+What have I learned about cancer genome and terminology and impact surrounding it?
+ 
+[Read more →](WhatHaveWeLearned.md)
+
+---
 ## Contact
 
 If you’d like to connect or collaborate:
